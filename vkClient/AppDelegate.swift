@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  vkClient
 //
-//  Created by Юлия Митрофанова on 26.05.2022.
+//  Created by Daniil Startsev on 26.05.2022.
 //
 
 import UIKit
